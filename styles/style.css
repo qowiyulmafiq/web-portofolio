@@ -226,6 +226,9 @@ main .content .home-content .content-description .btn-collab:hover{
     background-color: #ffffff;
     color: #1a1a1a;
     text-align: justify;
+    -webkit-hyphens: auto;
+    -ms-hyphens: auto;
+    hyphens: auto;
 }
 
 .card-main-desc p {
@@ -264,6 +267,9 @@ main .content .home-content .content-description .btn-collab:hover{
 .vision-phil-grid p {
     margin: 0;
     text-align: justify;
+    -webkit-hyphens: auto;
+    -ms-hyphens: auto;
+    hyphens: auto;
 }
 
 /*tech stack section*/
@@ -343,6 +349,9 @@ main .content .home-content .content-description .btn-collab:hover{
     color: #444444;
     margin: 0;
     text-align: justify;
+    -webkit-hyphens: auto;
+    -ms-hyphens: auto;
+    hyphens: auto;
 }
 
 .projects-content {
